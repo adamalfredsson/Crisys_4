@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "140437060593",
+    "firebase_url": "https://gwardian-aa950.firebaseio.com",
+    "project_id": "gwardian-aa950",
+    "storage_bucket": "gwardian-aa950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140437060593:android:690a0dcfa83f8bd4",
+        "android_client_info": {
+          "package_name": "com.richardsmith.crisys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140437060593-6nli2vjrj1rghoj7ieakcdoe21e22p26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.richardsmith.crisys",
+            "certificate_hash": "3dbb13cf69cc1ce14210f455f4951f10c9160802"
+          }
+        },
+        {
+          "client_id": "140437060593-ofss4m8ct20ajn920rqdsfe8ljcrg5f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCes_32QavJP8ys1T9wME716CJJ8s9QFtQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140437060593-ofss4m8ct20ajn920rqdsfe8ljcrg5f2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140437060593-6mqcn0l6agj4u9l5a4eekevn8nl1d017.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "richard.smith.Gwardian"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

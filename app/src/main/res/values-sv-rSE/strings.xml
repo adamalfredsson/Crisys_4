@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_alarm_hint_type">Vad hände?</string>
+    <string name="new_alarm_save">Spara</string>
+    <string name="delete_alarm">Ta bort</string>
+    <string name="alarm_olycka">Olycka</string>
+    <string name="new_alarm_hint_location">Plats</string>
+    <string name="new_alarm_time">Tid</string>
+    <string name="new_alarm_location">A211</string>
+    <string name="new_alarm_olycka">Olycka</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Crisys</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="status_aktivt" translatable="false">Status: Aktivt</string>
+    <string name="prioritet_brutetben" translatable="false">Prioritet: Brutet ben</string>
+    <string name="plats_bism_a115" translatable="false">Plats: A115</string>
+    <string name="alarm_olycka">Accident</string>
+    <string name="new_alarm_olycka">Accident</string>
+    <string name="new_alarm_location">A211</string>
+    <string name="new_alarm_time">Time</string>
+    <string name="new_alarm_hint_location">Location</string>
+    <string name="new_alarm_hint_type">What happened?</string>
+    <string name="new_alarm_save">Save</string>
+    <string name="delete_alarm">Delete</string>
+</resources>
